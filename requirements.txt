@@ -1,0 +1,4 @@
+Flask==2.1.2
+spleeter==2.1.2
+ffmpeg-python==0.2.0
+requests==2.28.1
